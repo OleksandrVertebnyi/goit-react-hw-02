@@ -1,0 +1,14 @@
+.description {
+text-align: center;
+margin-bottom: 20px;
+}
+
+.description h1 {
+    font-style: 28px;
+    margin-bottom: 10px;
+}
+
+.description p {
+    font-style: 18px;
+    color: #555;
+}

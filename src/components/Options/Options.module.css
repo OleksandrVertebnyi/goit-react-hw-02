@@ -1,0 +1,19 @@
+.options {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.options button {
+    padding: 10px 16px;
+    border: none;
+    background-repeat: 8px;
+    font-style: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.options button:hover {
+    border-color: #e0e0e0;
+}
